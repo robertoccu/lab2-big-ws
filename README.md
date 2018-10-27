@@ -4,9 +4,9 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-big
 
 *Note:*
 This laboratory depends on the availability of the package `java.xml.bind`.
-This package is available in Java versions prior to JDK 9.
+This package is available in Java versions prior to JDK 9. 
 Since the JDK 9 this package belongs to a module that is not be visible by default.
-This breaks the task `genJaxb`.
+This breaks the task `genJaxb`. 
 Therefore, you must ensure that you runs this code with JDK 8.
 
 
